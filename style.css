@@ -124,3 +124,33 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+
+.user-comment {
+    background-color: #ffffff;
+    padding: 15px;
+    border-left: 4px solid #1565c0;
+    border-radius: 8px;
+    font-style: italic;
+    font-size: 14px;
+    color: #333;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    width: 33%;
+    margin: 20px auto;
+    margin-left: 100px;
+}
+
+.user-comment1 {
+    background-color: #ffffff;
+    padding: 15px;
+    border-right: 4px solid #1565c0;
+    border-radius: 8px;
+    font-style: italic;
+    font-size: 14px;
+    color: #333;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    width: 33%;
+    margin: 20px auto;
+    margin-left: 100px;
+    
+}
+
