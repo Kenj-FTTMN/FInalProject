@@ -28,8 +28,8 @@
                 <h1 class="mt-3">Lending and Installment System</h1>
                 <p>"Making Borrowing Simple and Affordable."</p>
                 <div class="hero-buttons">
-                    <button class="btn">Lend Now</button>
-                    <button class="btn">Install Products</button>
+                    <a href="lend-form.php" class="btn btn-primary">Lend Now</a>
+                    <a href="installment-form.php" class="btn btn-success">Install Products</a>
                 </div>
             </div>
 
