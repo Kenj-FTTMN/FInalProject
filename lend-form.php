@@ -27,7 +27,7 @@
             </div>
             
             <div class="mt-3">
-                <label for="existingInstallment" style="margin-bottom: 10px">Do you have an active installment?</label>
+                <label for="existingInstallment" style="margin-bottom: 10px">Do you have an active account?</label>
                 <select class="form-select" id="existingInstallment" style="margin-bottom: 40px">
                     <option>Yes</option>
                     <option>No</option>
